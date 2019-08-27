@@ -1,2 +1,2 @@
-# homwork1
+# homework1
 My first homework
